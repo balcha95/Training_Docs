@@ -1,0 +1,41 @@
+Modules ::                    Recored  Date ::                 Time ::
+
+Module 1 : Application Development Fundamentals -03/12/2023
+                                                -04/12/2023-IDE-installation
+Module 2 : Structure Query Language (SQL)      
+
+Module 2 : AWS Fundamentals                     -17/12/2022 mobaxtrim installation 03:30
+                                                -18/12/2022 
+Module 4 : DevOps Overview
+
+Module 5 : Managing Source Code – Git and GitHub
+
+Module 6 : Understanding and Using Build Tools
+
+Module 7 : Continuous Testing with Selenium      -1/01/2023  03:00:00
+      
+Module 8 : Continuous Integration Using Jenkins  -14/01/2023 1.Overview & Installation and Configuration of Jenkins using amz-linux. 
+                                                 -15/01/2023 1.Jenkins Freestyle ------TIME-20:00
+                                                             2.Pipeline Jobs-----------TIME-01:36:40  b.slave config@1:56  
+                                                 -21/01/2023 1.Install the tomcat9 server on AWS ubuntu machine.
+                                                             2.Deploy the packaged application on Tomcat9.
+                                                             3.Verify the application after successful deployment using browser
+
+Module 11 : Containerization,                    -22/01/2023 1.docker intro-------TIME-30:00
+            Docker, and Docker Hub.              -About Docker and its architecture and command --lab Time-02:00
+                                                 -28/01/2023 5.Dockerfile to create application Image & Deploy thru tomcat container---TIME-28:00
+			                                                 Docker Volumes / persitance ------TIME-51:00 lab------TIME-01:00 chck 1:26
+			                                                 Docker Compose TIME-01:28
+                                                             docker hub TIME-01:30                                                                               
+
+Module 12 : Kubernetes                          -28/01/2023 1.kubernates overview architecture-----TIME-02:40
+                                                      
+                                                -29/01/2023 2.
+													   
+Module 10 : Configuration Automation using Ansible
+
+Module 13 : Continuous Monitoring using Prometheus and Grafana
+
+Module 15 : Terraform Overview
+
+Module 16 : Capstone Project Live Demo 
